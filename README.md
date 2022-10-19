@@ -1,7 +1,10 @@
 # Models_22
 to run the netlogo model
-download the "umbrella_8.nlgo" file
-go to  netlogoweb https://www.netlogoweb.org/
+download the "umbrella_8.nlgo" file [zip option]
+![image](https://user-images.githubusercontent.com/41527852/196576666-37b310be-0484-4cdb-a8c3-b06bf4de8bcd.png)
+extract the .nlgo file
+go to  netlogoweb
+https://www.netlogoweb.org/
 choose "run in your browser" option
 ![image](https://user-images.githubusercontent.com/41527852/196454727-22a90750-5fde-42cd-bb1c-a086188a3f24.png)
 
