@@ -607,7 +607,8 @@ HORIZONTAL
 
 @#$#@#$#@
 ## WHAT IS IT?
-ih
+this is a model based on hebrew children book calld "Dads Big Umbrella" Written by Levin Kipnis
+
 Tal, whose name is Taltal, got up in the morning and wanted to go to the gardener.
 But it was cloudy outside and rain was knocking on the window pane:
 Tip-tip-tip! Tip-tap-tap! bag-bag-bag! Knock-knock-knock!
@@ -628,33 +629,39 @@ They go -
 And here is Joseph standing under a canopy. They called her: "Joseph, Yoseph, are you barefoot?
 Leave the awning and come with us to the garden!" Yosef also entered under the umbrella.
 The rain is falling, the wind is whistling, and Tali is chatting, and Ilana is shouting, Betya is laughing and even Yosef is not silent.
-The four of them went together. And here is a sparrow, chirping like a bird, standing outside and shivering with cold.
+The four of them went together. And here is Dror [ sparrow], chirping like a bird, standing outside and shivering with cold.
 They called him: "Don't perk up a donkey's ears! Come with us to the garden"
 A sparrow quickly went under the umbrella too.
 The flash of lightning, the thunder of thunder
 The five of you went together! And here is Ephraim red-cheeked, wearing boots-jumping in the puddle of water.
-They called him: "O Lord, come to Gannon!" He also went under the umbrella.
-They went to sleep together. And here opposite a puppy and a kitten howling by the fence,
+They called him: "Hey Lord, come to Gannon [KinderGarden]!" He also went under the umbrella.
+They went, six of them, together. And here opposite a puppy and a kitten howling by the fence,
 Running around looking for a place to hide. Sparrow and Ephraim jumped and took them on their hands. and carried them under the umbrella -
 Cheers to all her friends! In the meantime - the sky started to clear,
-And the children - a song in their mouths and light in their eyes! And so Bashir and Ron came to the garden.
+And the children - a song in their mouths and light in their eyes! And so singing a long [Bashir] and joy [Ron] they came to the garden.
 All the children were happy and made a big circle - the puppy and the kitten also participated in the dance
 
 (a general understanding of what the model is trying to show or explain)
 
 ## HOW IT WORKS
-each 
+each kid assignd a type of personalty- naive and skeptic they enter an umbrella depending on thier hasitation and how
+they "read" the situation if the umbrella is too crowded or the level of friction is high its influace thier satisfection
+
 (what rules the agents use to create the overall behavior of the model)
 
 ## HOW TO USE IT
-
+setup the model by licking the setup button- this will set the kids and umbrellas
+and then start the model by clicking the go button
 (how to use the model, including a description of each of the items in the Interface tab)
 
 ## THINGS TO NOTICE
-
+look at the satisfection fear graph and follow the distribution of navies vs skeptics at the beginging and the end of simulation
 (suggested things for the user to notice while running the model)
 
 ## THINGS TO TRY
+1. change the word-time perception option
+2. change the value of word power this will be of segnificance only if you choos the word option
+3. 
 
 (suggested things for the user to try to do (move sliders, switches, etc.) with the model)
 
